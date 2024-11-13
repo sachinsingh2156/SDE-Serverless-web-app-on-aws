@@ -1,4 +1,4 @@
-# Software & Data Engineering P
+# Software & Data Engineering Project
 # Serverless Web Application on AWS
 
 ## Project Description
