@@ -1,14 +1,12 @@
-Here is a README file for your "Serverless Web Application on AWS" project:
-
----
-
+# Software & Data Engineering P
 # Serverless Web Application on AWS
 
 ## Project Description
 This project demonstrates a serverless web application built using Amazon Web Services (AWS) technologies. The application allows users to create, read, update, and delete (CRUD) items from a DynamoDB table through a contact form on a web page. The form collects data such as the user's name, email, subject, and message, which is then processed by an AWS Lambda function and stored in a DynamoDB table.
 
 ## Project Architecture
-![Project Architecture](Serverless.jpg)
+![Project Architecture](https://github.com/user-attachments/assets/e8e4f845-5ce4-41e9-90f0-43175205b1e7)
+
 
 The project architecture consists of:
 - **DynamoDB**: A NoSQL database used to store user-submitted data from the contact form.
