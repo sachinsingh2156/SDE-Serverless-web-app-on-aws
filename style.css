@@ -21,8 +21,8 @@ nav {
 }
 
 nav img {
-  width: 150px;
-  border-radius: 40%;
+  width: 100px;
+  border-radius: 20%;
 }
 .nav-links {
   flex: 1;
