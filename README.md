@@ -5,7 +5,8 @@
 This project demonstrates a serverless web application built using Amazon Web Services (AWS) technologies. The application allows users to create, read, update, and delete (CRUD) items from a DynamoDB table through a contact form on a web page. The form collects data such as the user's name, email, subject, and message, which is then processed by an AWS Lambda function and stored in a DynamoDB table.
 
 ## Project Architecture
-![Project Architecture](https://github.com/user-attachments/assets/b868776f-e90f-4da8-9ae4-406cd12b1085)
+![Serverless (1)](https://github.com/user-attachments/assets/928bd61f-52bd-4482-8e05-88c2f9334515)
+
 
 
 The project architecture consists of:
